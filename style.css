@@ -497,7 +497,7 @@ textarea {
 	width: auto;
 	margin: 0 auto;
 	font-weight: bold;
-	max-width: 50%;
+	max-width: 100%;
 	padding: 8px 60px;
 	border: none;
 	color: #fff;
